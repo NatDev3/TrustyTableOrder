@@ -2,7 +2,7 @@
 
 Aplikasi pemesanan berbasis terminal, dibuat dengan C++ untuk tugas kuliah Pemrograman Dasar UAD.
 
-## Cara Menjalankan
+## Cara Menjalankan program
 
 ```bash
 g++ -o TrustyTableOrder TrustyTableOrder.cpp
