@@ -1,6 +1,6 @@
 # TrustyTableOrder v1
 
-Aplikasi kasir dan pemesanan meja restoran berbasis terminal, dibuat dengan C++ untuk tugas kuliah Pemrograman Dasar UAD.
+Aplikasi pemesanan berbasis terminal, dibuat dengan C++ untuk tugas kuliah Pemrograman Dasar UAD.
 
 ## Cara Menjalankan
 
