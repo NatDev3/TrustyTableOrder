@@ -39,7 +39,7 @@ echo [5/5] Melakukan push otomatis ke GitHub...
 echo.
 git add .
 git commit -m "Initial setup: Struktur folder src/ dengan file cpp dan txt kosong"
-git push -u origin main
+git push -f origin main
 
 echo.
 echo =======================================================
