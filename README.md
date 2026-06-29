@@ -1,4 +1,4 @@
-# TrustyTableOrder v1
+# TrustyTableOrder v1.0.0-alpha
 
 Aplikasi pemesanan berbasis terminal, dibuat dengan C++ untuk tugas kuliah Pemrograman Dasar UAD.
 
